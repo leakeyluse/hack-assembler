@@ -1,2 +1,2 @@
 # hack-assembler
-Assembler for the Hack Assembly Language.
+Assembler for the Hack Assembly Language
